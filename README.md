@@ -10,16 +10,18 @@ Following are the details regarding the various parameters used along with their
 
 KNN
 ![KNN](img/knn result.png)
+![KNN-result.png](https://github.com/Harshil2001/Neural-Networks-K-nearest-neighbors-and-SVMs/blob/main/img/knn%20result.png)
 
 Here the best error rate is in index 2
 
 MLP
 ![MLP](img/mlp results.png)
+![MLP-result.png](https://github.com/Harshil2001/Neural-Networks-K-nearest-neighbors-and-SVMs/blob/main/img/mlp%20results.png)
 
 Here the best error rate is in index 9
 
 SVM
-[SVM result](https://github.com/Harshil2001/Neural-Networks-K-nearest-neighbors-and-SVMs/blob/main/img/svm%20results.png)
+[SVM-result.png](https://github.com/Harshil2001/Neural-Networks-K-nearest-neighbors-and-SVMs/blob/main/img/svm%20results.png)
 
 Here the best error rate is in index 0
 
