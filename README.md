@@ -19,7 +19,7 @@ MLP
 Here the best error rate is in index 9
 
 SVM
-![SVM](img/svm results.png)
+[SVM result](https://github.com/Harshil2001/Neural-Networks-K-nearest-neighbors-and-SVMs/blob/main/img/svm%20results.png)
 
 Here the best error rate is in index 0
 
