@@ -9,14 +9,17 @@ For this part I did the following steps:
 Following are the details regarding the various parameters used along with their respective error rates.
 
 KNN
+![KNN](img/knn result.png)
 
 Here the best error rate is in index 2
 
 MLP
+![MLP](img/mlp results.png)
 
 Here the best error rate is in index 9
 
 SVM
+![SVM](img/svm results.png)
 
 Here the best error rate is in index 0
 
